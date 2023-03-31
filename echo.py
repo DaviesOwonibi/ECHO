@@ -14,7 +14,7 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # Authenticate with the Wolfram API using a stored API key
-client = wolframalpha.Client("GWAE2J-WHE878TEUT")
+client = wolframalpha.Client("")
 
 def tellFact():
 	# Query the Wolfram API for a generic fact
@@ -137,7 +137,7 @@ def search_wikipedia(query):
 
 # Function to get weather information
 def get_weather():
-	api_key = 'ad2996b6abc8596852c26bb139cffbe3'  # replace with your own OpenWeatherMap API key
+	api_key = ''  # replace with your own OpenWeatherMap API key
 	base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
