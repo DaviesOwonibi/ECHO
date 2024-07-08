@@ -100,5 +100,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ---
-
-Replace placeholders like `yourusername`  with actual values before using this README.
