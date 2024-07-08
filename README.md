@@ -1,7 +1,3 @@
-Sure! Here's a README for your Python-based voice assistant program:
-
----
-
 # Echo - AI Voice Assistant
 
 Echo is an AI voice assistant that can perform various tasks such as searching Wikipedia, fetching weather information, checking battery status, browsing the internet, and more. It uses several external libraries to achieve its functionality, including `speech_recognition`, `pyttsx3`, `requests`, `wikipedia`, and more.
